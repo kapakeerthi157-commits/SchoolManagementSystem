@@ -1,5 +1,4 @@
 # Schoolmanagement
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
 ---
 ## screenshots
 ### Homepage
@@ -72,8 +71,3 @@ https://myaccount.google.com/lesssecureapps
 
 ## Disclaimer
 This project is developed for demo purpose and it's not supposed to be used in real application.
-
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
